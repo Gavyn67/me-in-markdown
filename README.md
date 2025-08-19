@@ -11,9 +11,10 @@ Recently I have started to learn lua programming of Roblox so that I can create 
 ## My Playlist
 
 
-[This is my playlist](lms.lausd.net)
+[This is my playlist](https://open.spotify.com/playlist/277AkPcppqJTUfEyuT0kjN)
 
 ## My Collage / Mood Board
 
-[my collage](<img width="590" height="347" alt="Screenshot 2025-08-19 123146" src="https://github.com/user-attachments/assets/a33effc4-2bb8-48df-8d64-4d113741dcda" />)
+<img width="590" height="347" alt="Screenshot 2025-08-19 123146" src="https://github.com/user-attachments/assets/a33effc4-2bb8-48df-8d64-4d113741dcda" />
+
 
