@@ -2,14 +2,19 @@
 
 ## Introduction
 
-My name is Gavyn and I am in 11th grade. An interesting fact about myself is that I am left handed. Some goals I have for the upcoming school year is to get an A in every class and good AP scores. A favorite food I enjoyed during the summer is ice cream because it was very hot. I hope to learn new languages of code in this class. The most memorable experience I had during the summer was going to Six Flags and it stood out to me because I had a lot of fun there.
+My name is Gavyn and I am currently in 11th grade. An interesting fact about me is that I am left-handed. This school year I am planning to challenge myself so I have set some strong goals. I want to earn an A in every class that I have and achieve high scores on my AP exams. These goals are very important to me because I want to prepare well for future education and I want to challenge myself.
 
-Recemtly I started learning luau on Roblox so that I can make games. A creative activity I did was playing music. A favorite memory I made with friends over the summer is going on drop of doom at six flags
+During the summer, when the weather was hot, I enjoyed eating ice cream which was refreshing. One of the most memorable experiences I had was going to Six Flags over the summer. This is a memory that stood out to me because I had a lot of fun riding all the rides. One of my favorite memories at Six Flags with my friends was going on Drop of Doom because it was scary and fun.
+
+Recently I have started to learn lua programming of Roblox so that I can create my own games. I always have enjoyed computer science and coding, so I hope to learn new programming languages and expanding my skills. I also enjoy creative activities like learning and playing music. I also like editing videos. Because I enjoy computer science I plan to pursue a career related to compuer science and programming, since I am passionate about it.
 
 ## My Playlist
+
 
 [This is my playlist](lms.lausd.net)
 
 ## My Collage / Mood Board
 
-![my collage](collage.png)
+![my collage](![Uploading image.png…]()
+)
+
